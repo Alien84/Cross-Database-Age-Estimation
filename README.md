@@ -4,4 +4,5 @@ This repositroy provides the training database (BAG) and trained models for cros
 
 A. Akbari et al., "Distribution Cognisant Loss for Cross-Database Facial Age Estimation with Sensitivity Analysis," in IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020
 
-Please contact ali.akbari@surrey.ac.uk to access the BAG dataset.
+# How to download the BAG database:
+Please contact ali.akbari@surrey.ac.uk for further information.
